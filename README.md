@@ -1,4 +1,4 @@
-# Growth mindset
+# Growth mindset 🧠
 
 The growth mindset can open pathways to more creativity and possibility, and enable the setting of higher goals and more achievement.  
 ## There are two concepts for mindset
