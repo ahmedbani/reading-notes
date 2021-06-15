@@ -8,3 +8,4 @@ hello everyone,
 | :---        |    :----:   |
 | Growth      | [Growth](https://ahmedbani.github.io/reading-notes/Growth)       |
 | read01      | [read01](https://ahmedbani.github.io/reading-notes/read01)       |
+| read02.     | [read02](https://ahmedbani.github.io/reading-notes/read02)
