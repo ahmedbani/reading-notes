@@ -5,10 +5,6 @@ hello everyone,
 
 ## Table of contents
 | Title       | Link  | 
-| :---        |    :----:   |         
-<<<<<<< HEAD
-| Growth      | [growth](https://ahmedbani.github.io/reading-notes/Growth)  |
-=======
-| Growth      | [growth]()  |
->>>>>>> acab11f0086942848d5f07be8951e87eeab15bad
-| read01   | [read01](https://ahmedbani.github.io/reading-notes/read01)        |
+| :---        |    :----:   |
+| Growth      | [Growth](https://ahmedbani.github.io/reading-notes/Growth)       |
+| read01      | [read01](https://ahmedbani.github.io/reading-notes/read01)       |
