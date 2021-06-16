@@ -6,7 +6,10 @@ hello everyone,
 ## Table of contents
 | Title       | Link  | 
 | :---        |    :----:   |
-| Growth      | [Growth](https://ahmedbani.github.io/reading-notes/Growth)       |
-| read01      | [read01](https://ahmedbani.github.io/reading-notes/read01)       |
+| Growth      | [Growth](https://ahmedbani.github.io/reading-notes/Growth)|
+| read01      | [read01](https://ahmedbani.github.io/reading-notes/read01)|
+
 | read02      | [read02](https://ahmedbani.github.io/reading-notes/read02)|
-| read03.     | [read03](https://ahmedbani.github.io/reading-notes/read03)|
+| read03     | [read03](https://ahmedbani.github.io/reading-notes/read03)|
+
+
