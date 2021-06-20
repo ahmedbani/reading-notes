@@ -13,5 +13,7 @@ hello everyone,
 | read03     | [read03](https://ahmedbani.github.io/reading-notes/read03)|
 | read04     | [read04](https://ahmedbani.github.io/reading-notes/read04)| 
 | read05 | [read05](https://ahmedbani.github.io/reading-notes/read05)|
+| read06 | [read06](https://ahmedbani.github.io/reading-notes/read06) |
+| read07 | [read07](https://ahmedbani.github.io/reading-notes/read07) |
 
 
