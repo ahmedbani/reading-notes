@@ -25,7 +25,7 @@ hello everyone,
 | read 05|[class-05](https://ahmedbani.github.io/reading-notes/201/class-05)|
 | read 06|[class-06](https://ahmedbani.github.io/reading-notes/201/class-06)|
 | read 07|[class-07](https://ahmedbani.github.io/reading-notes/201/class-07)|
-| read 08||
+| read 08|[class-08](https://ahmedbani.github.io/reading-notes/201/class-08)|
 | read 09||
 | read 10||
 | read 11||
