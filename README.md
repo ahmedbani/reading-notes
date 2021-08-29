@@ -9,6 +9,7 @@ hello everyone,
 ## Table of contents. 
 
 ## Code 102 reading-notes 
+
 | Title       | Link  | 
 | :---        |    :----:   |
 | Growth      | [Growth](https://ahmedbani.github.io/reading-notes/102/Growth)|
@@ -41,5 +42,10 @@ hello everyone,
 | read 15|[class-15](https://ahmedbani.github.io/reading-notes/201/class-15)|
 
 ## code 301 reading-notes
+
+| Title | Link |
+| :-- | :--: |
+| read 01 |[class-01](https://ahmedbani.github.io/reading-notes/301/class-01)|
+| read 02 |[class-02](https://ahmedbani.github.io/reading-notes/301/class-02)|
 
 ## code 401 reading-notes
