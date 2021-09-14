@@ -24,10 +24,10 @@
 
 >Example
 
-    const arr1 = ["Ali" , "Khaled" , "Aown"];
-    const arr2 = ["Saja" , "Hadeel" , "Aya"];
+    const arr1 = ["Ali" , "Ahmed" , "Noor"];
+    const arr2 = ["Rami" , "Jouri" , "Aya"];
     const arr3 = [...arr1 , ...arr2];
-    //The value of arr3 = ["Ali" , "Khaled" , "Aown" , "Saja" , "Hadeel" , "Aya"];
+    //The value of arr3 = ["Ali" , "Ahmed" , "Noor" , "Rami" , "Jouri" , "Aya"];
 
 
 >If i need to added new name I'll be using push like:
@@ -36,15 +36,15 @@
 
 >To mearge Objects !
 
-    const person = { name: 'Ali', gender: 'Male' };
-    const tools = { computer: 'HP', editor: 'Akef' };
+    const person = { name: 'Ahmed', gender: 'Male' };
+    const tools = { computer: 'Mac', editor: 'Salameh' };
     const summary = {...person, ...tools};
     /*
     Summary Object {
-    "computer": "HP",
-    "editor": "Akef",
+    "computer": "Mac",
+    "editor": "Salameh",
     "gender": "Male",
-    "name": "Ali",
+    "name": "Ahmed",
     }
     */
 
