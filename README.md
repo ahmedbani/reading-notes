@@ -8,7 +8,7 @@ hello everyone,
 
 ## Table of contents. 
 
-## Code 102 reading-notes 
+## Code 102 - Intro to Software Development
 
 | Title       | Link  | 
 | :---        |    :----:   |
@@ -21,7 +21,7 @@ hello everyone,
 | read 06 | [read06](https://ahmedbani.github.io/reading-notes/102/read06) |
 | read 07 | [read07](https://ahmedbani.github.io/reading-notes/102/read07) |
 
-## Code 201 reading-notes
+## Code 201 - Foundations of Software Development
 
 | Title | Link |
 | :-- | :--: |
@@ -41,7 +41,7 @@ hello everyone,
 | read 14|[class-14](https://ahmedbani.github.io/reading-notes/201/class-14)|
 | read 15|[class-15](https://ahmedbani.github.io/reading-notes/201/class-15)|
 
-## code 301 reading-notes
+## Code 301 - Intermediate Software Development
 
 | Title | Link |
 | :-- | :--: |
@@ -60,4 +60,4 @@ hello everyone,
 | read 13 |[class-13](https://ahmedbani.github.io/reading-notes/301/class-13)|
 | read 14 |[class-14](https://ahmedbani.github.io/reading-notes/301/class-14)|
 
-## code 401 reading-notes
+## Code 401 - Advanced Software Development
