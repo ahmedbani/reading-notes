@@ -65,3 +65,4 @@ hello everyone,
 | Title | Link |
 | :-- | :--: |
 | read 01 |[class-01](https://ahmedbani.github.io/reading-notes/401/class-01)|
+| read 02 |[class-02](https://ahmedbani.github.io/reading-notes/401/class-02)|
