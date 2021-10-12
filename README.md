@@ -67,3 +67,4 @@ hello everyone,
 | read 01 |[class-01](https://ahmedbani.github.io/reading-notes/401/class-01)|
 | read 02 |[class-02](https://ahmedbani.github.io/reading-notes/401/class-02)|
 | read 03 |[class-03](https://ahmedbani.github.io/reading-notes/401/class-03)|
+| read 04 |[class-04](https://ahmedbani.github.io/reading-notes/401/class-04)|
