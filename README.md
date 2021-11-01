@@ -79,3 +79,4 @@ hello everyone,
 | read 15 |[class-15](https://ahmedbani.github.io/reading-notes/401/class-15)|
 | read 16 |[class-16](https://ahmedbani.github.io/reading-notes/401/class-16)|
 | read 17 |[class-17](https://ahmedbani.github.io/reading-notes/401/class-17)|
+| read 18 |[class-18](https://ahmedbani.github.io/reading-notes/401/class-18)|
