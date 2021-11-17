@@ -85,3 +85,4 @@ hello everyone,
 | read 27 |[class-27](https://ahmedbani.github.io/reading-notes/401/class-27)|
 | read 28 |[class-28](https://ahmedbani.github.io/reading-notes/401/class-28)|
 | read 29 |[class-29](https://ahmedbani.github.io/reading-notes/401/class-29)|
+| read 30 |[class-30](https://ahmedbani.github.io/reading-notes/401/class-30)|
