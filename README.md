@@ -88,3 +88,4 @@ hello everyone,
 | read 30 |[class-30](https://ahmedbani.github.io/reading-notes/401/class-30)|
 | read 31 |[class-31](https://ahmedbani.github.io/reading-notes/401/class-31)|
 | read 32 |[class-32](https://ahmedbani.github.io/reading-notes/401/class-32)|
+| read 33 |[class-33](https://ahmedbani.github.io/reading-notes/401/class-33)|
