@@ -95,3 +95,4 @@ hello everyone,
 | read 37 |[class-37](https://ahmedbani.github.io/reading-notes/401/class-37)|
 | read 38 |[class-38](https://ahmedbani.github.io/reading-notes/401/class-38)|
 | read 39 |[class-39](https://ahmedbani.github.io/reading-notes/401/class-39)|
+| read 42 |[class-42](https://ahmedbani.github.io/reading-notes/401/class-42)|
